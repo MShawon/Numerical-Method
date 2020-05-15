@@ -1,3 +1,16 @@
+welcome="""
+#*#*#*#*#*#*#*#*#**#*#*#*#**#*#*#*#**#*#*#*#*#*#**#*#*#*#**#*#*#*#**#*#
+#*                                                                   #*
+#*                        Curve Fitting                              #*
+#*                              By                                   #*
+#*                     Least Square Method                           #*
+#*       Find the Straight Line that BEST fits for your data         #*
+#*                     Credit- Monirul Shawon                        #*
+#*                                                                   #*
+#*#*#*#*#*#*#*#*#**#*#*#*#**#*#*#*#**#*#*#*#*#*#**#*#*#*#**#*#*#*#**#*#
+"""
+print(welcome)
+
 from tabulate import tabulate
 x=[]
 y=[]

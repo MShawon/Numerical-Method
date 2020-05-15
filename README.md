@@ -8,6 +8,6 @@ Following curve is used for data fitiing:
 1. Straight Line (y=mx+c)
 2. Second Degree Parabola (y=ax<sup>2</sup>+bx+c)
 3. Exponential Equation (y=ae<sup>bx</sup>)
-4. y=ab<sup></sup>
+4. y=ab<sup>x</sup>
 5. y=ax<sup>b</sup>
 

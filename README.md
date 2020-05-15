@@ -13,4 +13,4 @@ Following curve is used for data fitting:
 
 # Usage
  
-python leastSquareMethod.py
+ **python leastSquareMethod.py**

@@ -4,7 +4,7 @@
 
 **Least-Squares-Method:** The method of least squares is a standard approach in regression analysis to approximate the solution of overdetermined systems by minimizing the sum of the squares of the residuals made in the results of every single equation. The most important application is in data fitting.
 
-Following curve is used for data fitiing:
+Following curve is used for data fitting:
 1. Straight Line (y=mx+c)
 2. Second Degree Parabola (y=ax<sup>2</sup>+bx+c or y=a+bx+cx<sup>2</sup>)
 3. Exponential Equation (y=ae<sup>bx</sup>)

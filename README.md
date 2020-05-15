@@ -11,3 +11,6 @@ Following curve is used for data fitting:
 4. y=ab<sup>x</sup>
 5. y=ax<sup>b</sup>
 
+# Usage
+ 
+python leastSquareMethod.py

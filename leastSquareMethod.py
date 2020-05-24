@@ -459,8 +459,8 @@ while True:
             print(welcometext)
             print("\nSelect curve number, i.e, to use straight line input 1")
         #yes or no
-        again=str(input("\nWant to calculate again? Yes or No : "))
-        if again.lower()=='yes'or again.lower()=='y':
+        again=str(input("\nWant to calculate again? Yes or No : ")).lower()
+        if 'y' in again:
             clear_screen()
             print("Welcome again!")
             print("\nFollowing are the available option for Curve fitting:")

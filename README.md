@@ -17,13 +17,10 @@ Following curve is used for data fitting:
  ```
  git clone https://github.com/MShawon/Numerical-Method.git
  ```
- Or click [Download](https://github.com/MShawon/Numerical-Method/archive/master.zip) and unzip it.
- 
  cd into Numerical-Method
  ```
  cd Numerical-Method
  ```
- 
  and type
  ```
  python leastSquareMethod.py

@@ -13,9 +13,24 @@ Following curve is used for data fitting:
 
 # Usage
  
- **python leastSquareMethod.py**
+ Open command prompt window and type
+ ```
+ git clone https://github.com/MShawon/Numerical-Method.git
+ ```
+ Or click [Download](https://github.com/MShawon/Numerical-Method/archive/master.zip) and unzip it.
+ 
+ cd into Numerical-Method
+ ```
+ cd Numerical-Method
+ ```
+ 
+ and type
+ ```
+ python leastSquareMethod.py
+ ```
+ 
 
-![alt text](https://github.com/MShawon/Numerical-Method/blob/master/Demo/welcomescreen.png "Welcome screen")
+![alt text](https://github.com/MShawon/Numerical-Method/blob/master/Demo/welcome.png "Welcome screen")
 
 ![alt text](https://github.com/MShawon/Numerical-Method/blob/master/Demo/input.png "Input")
 

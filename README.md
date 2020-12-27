@@ -14,3 +14,15 @@ Following curve is used for data fitting:
 # Usage
  
  **python leastSquareMethod.py**
+
+![alt text][logo]
+
+[logo]:https://github.com/MShawon/Numerical-Method/blob/master/Demo/welcomescreen.png "Welcome screen"
+
+![alt text][logo]
+
+[logo]:https://github.com/MShawon/Numerical-Method/blob/master/Demo/input.png "Input"
+
+![alt text][logo]
+
+[logo]:https://github.com/MShawon/Numerical-Method/blob/master/Demo/output.png "Result"

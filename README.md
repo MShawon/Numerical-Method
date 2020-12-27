@@ -11,9 +11,11 @@ Following curve is used for data fitting:
 4. Curve y=ab<sup>x</sup> and
 5. Another curve y=ax<sup>b</sup>
 
-# Usage
+# Installation
+ * Python 3.x
  
- Open command prompt window and type
+ 
+ Open command prompt and type
  ```
  git clone https://github.com/MShawon/Numerical-Method.git
  ```
@@ -21,12 +23,16 @@ Following curve is used for data fitting:
  ```
  cd Numerical-Method
  ```
- and type
+ ```
+ pip install -r requirements.txt
+ ```
+ 
+# Usage
+ Open command prompt in Numerical-Method folder and type
  ```
  python leastSquareMethod.py
  ```
  
-
 ![alt text](https://github.com/MShawon/Numerical-Method/blob/master/Demo/welcome.png "Welcome screen")
 
 ![alt text](https://github.com/MShawon/Numerical-Method/blob/master/Demo/input.png "Input")

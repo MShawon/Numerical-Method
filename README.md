@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/MShawon/Numerical-Method.svg)](http://hits.dwyl.com/MShawon/Numerical-Method)
+
 # Numerical-Method
 
 **Numerical-Method:** Numerical methods, is approximation fast solution for mathematical problems. Such problems can be in any field in engineering. So any result you get from it is approximated not exact, it give you the solution faster than normal ones, also it’s easy to be programmed.

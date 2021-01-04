@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/MShawon/Numerical-Method.svg)](http://hits.dwyl.com/MShawon/Numerical-Method)
+![ViewCount](https://views.whatilearened.today/views/github/MShawon/Numerical-Method.svg)
 
 # Numerical-Method
 

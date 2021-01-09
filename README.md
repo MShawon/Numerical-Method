@@ -18,14 +18,11 @@ Following curve is used for data fitting:
  
  
  Open command prompt and type
- ```
+ ```bash
  git clone https://github.com/MShawon/Numerical-Method.git
- ```
- cd into Numerical-Method
- ```
+
  cd Numerical-Method
- ```
- ```
+
  pip install -r requirements.txt
  ```
  

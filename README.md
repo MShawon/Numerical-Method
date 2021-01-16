@@ -1,4 +1,3 @@
-![ViewCount](https://views.whatilearened.today/views/github/MShawon/Numerical-Method.svg)
 
 # Numerical-Method
 
